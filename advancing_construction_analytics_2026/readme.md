@@ -6,7 +6,7 @@ Presentation and reference materials for **Deploying AI in Construction**. Prese
 
 ## 📄 Slide Deck
 
-- **[Deploying_AI_in_construction_ACA_2026.pdf](https://github.com/Suffolk-Construction-Corporation-Inc/presentations_and_materials/aca2026/blob/main/deploying_ai_in_construction_aca_2026.pdf)**  
+- **[Deploying_AI_in_construction_ACA_2026.pdf](https://github.com/Suffolk-Construction-Corporation-Inc/presentations_and_materials/blob/fdb62644c81c044c66530344a6a6b620bf4677d2/advancing_construction_analytics_2026/Deploying_AI_in_Construction_ACA_2026.pdf)**  
   Full presentation deck from the session highlighting Suffolk Construction’s strategy and experience piloting AI solutions & tools.
 
 
