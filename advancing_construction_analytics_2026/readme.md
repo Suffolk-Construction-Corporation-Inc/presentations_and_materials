@@ -33,12 +33,13 @@ This repository serves as a central reference for:
 ## 🧑‍💻 Authors
 **Lucas Da Silva**  
 Data Analyst @ **Suffolk Construction**  
-GitHub: [@gottalottasoul](https://github.com/gottalottasoul)
+LI: [Lucas Da Silva](https://www.linkedin.com/in/lucascdasilva/)
 
 
 **Blake Abbenante**  
 Sr Director, Data Product @ **Suffolk Construction**  
 GitHub: [@gottalottasoul](https://github.com/gottalottasoul)
+LI: [Blake Abbenante](https://www.linkedin.com/in/abbenante/)
 
 ---
 
