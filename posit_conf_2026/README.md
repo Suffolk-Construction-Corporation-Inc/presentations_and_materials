@@ -6,7 +6,7 @@ Presentation and reference materials for **The Tableau Plateau**. Presented in *
 
 ## 📄 Slide Deck
 
-- **[The_Tableau_Plateau.pdf](https://github.com/Suffolk-Construction-Corporation-Inc/presentations_and_materials/...)**  
+- **[The_Tableau_Plateau.pdf](https://github.com/Suffolk-Construction-Corporation-Inc/presentations_and_materials/blob/a287bb150bfcc8c28f21653a6c2b1a393e81b597/posit_conf_2026/Suffolk_PositConf_Talk_2026.pdf)**  
   Full presentation deck from the session highlighting Suffolk journey from low-code dashboard development to code first AI enabled apps using agentic coding agents and a Spec Driven Development framework.
 
 
