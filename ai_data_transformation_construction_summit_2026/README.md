@@ -6,7 +6,7 @@ Presentation and reference materials for **AI powered software development**. Pr
 
 ## 📄 Slide Deck
 
-- **[AI Powered Software Development.pdf](https://github.com/Suffolk-Construction-Corporation-Inc/presentations_and_materials/blob/a287bb150bfcc8c28f21653a6c2b1a393e81b597/posit_conf_2026/Suffolk_PositConf_Talk_2026.pdf)**  
+- **[AI Powered Software Development.pdf](https://github.com/Suffolk-Construction-Corporation-Inc/presentations_and_materials/blob/d3319db73dccf6882a3bc702b1ccdacb3f815645/ai_data_transformation_construction_summit_2026/Data_AI_Construction_2026.pdf)**  
   Full presentation deck from the session highlighting Suffolk journey from low-code dashboard development to code first AI enabled apps using agentic coding agents and a Spec Driven Development framework.
 
 
